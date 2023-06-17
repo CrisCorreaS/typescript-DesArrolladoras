@@ -185,7 +185,7 @@ var Persona = /** @class */ (function () {//Definimos la clase
       nombre: this._nombre,
       apellidos: this._apellidos,
       edad: this._edad,
-      DNI: this._DNI,
+      dni: this._dni,
       cumpleaños: this._cumple,
       colorFavorito: this._colorFavorito,
       sexo: this._sexo,
