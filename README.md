@@ -1,4 +1,6 @@
 # typescript-DesArrolladoras
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet) <br/>
+<br/>
 Este repositorio contiene el código fuente de una aplicación de agenda personal desarrollada en TypeScript. Fue desarrollado como parte del ejercicio de laboratorio del curso "Desarrollo Full-Stack (Nivel 3) ED.2022" del programa Samsung DesArrolladoras. La aplicación utiliza las clases **Persona**, **Dirección**, **Teléfono** y **Mail** para almacenar los datos personales de los individuos, como direcciones, teléfonos y correos electrónicos.
 
 ### Requisitos
